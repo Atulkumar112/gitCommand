@@ -1,0 +1,9 @@
+git commands
+1. git init
+2. git clone --paste your github repo link----
+3. now close git base and again open it in repo name folder
+4. create a file or change in exite file to see the diff in git status command 
+5. git status     // to see the changes or staus of your local repo 
+6. git commit -m "first commit"
+7. git log      // for see the all commit 
+8. git push origin main   // main is your branch name 
